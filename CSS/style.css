@@ -94,6 +94,9 @@ h1 {
     height: 278px;
 
 }
+.card-text p{
+    text-align: justify;
+}
 
 .card1 {
     width: 500px;
